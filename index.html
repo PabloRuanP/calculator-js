@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css" integrity="sha256-46r060N2LrChLLb5zowXQ72/iKKNiw/lAmygmHExk/o=" crossorigin="anonymous" />
+    <title>Calculator</title>
+</head>
+<body>
+    <header id="title">
+        <h1>A Simple Calculator</h1>
+    </header>
+    <section id="calcB" onselectstart = "return false">
+        <form name="calc">
+            <table>
+                <div id="calcScreen"></div>
+                <tr>
+                    <td class="cleanBtn">AC</td>
+                    <td class="operator">x</td>
+                    <td class="operator">÷</td>
+                    <td class="backspace"><i class="fas fa-backspace"></i></td>
+                </tr>
+                <tr>
+                    <td class="number">7</td>
+                    <td class="number">8</td>
+                    <td class="number">9</td>
+                    <td class="operator">+</td>
+                </tr>
+                <tr>
+                    <td class="number">4</td>
+                    <td class="number">5</td>
+                    <td class="number">6</td>
+                    <td class="operator">-</td>
+                </tr>
+                <tr>
+                    <td class="number">1</td>
+                    <td class="number">2</td>
+                    <td class="number">3</td>
+                    <td rowspan="2" class="equalBtn">=</td>
+                </tr>
+                <tr>
+                    <td colspan="2" class="number" >0</td>
+                    <td class="dot">.</td>
+                </tr>
+            </table>
+        </form>
+    </section>
+    <footer id="footer-end">
+       <p><a href="https://github.com/PabloRuanP" target="_blank">&copy; Developed by: Pablo Ruan</a></p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

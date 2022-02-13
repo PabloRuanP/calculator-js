@@ -1,10 +1,10 @@
-## [US/UK] Spotify Clone 
+## [US/UK] Simple Calculator
 
 I made this Simple Calculator using HTML, CSS and JavaScript, I hope you like it!<br>
 
 Here are one photo to show how the study is going:<br>
 
-## [PT/BR] Spotify Clone
+## [PT/BR] Calculadora Simples
 
 Fiz essa Calculadora Simples usando HTML, CSS e JavaScript, espero que gostem!<br>
 

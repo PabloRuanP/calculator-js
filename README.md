@@ -8,10 +8,10 @@ Here are one photo to show how the study is going:<br>
 
 Fiz essa Calculadora Simples usando HTML, CSS e JavaScript, espero que gostem!<br>
 
-Segue uma fotos de como está o estudo:<br>
+Segue abaixo uma foto de como está o estudo:<br>
 ##
 
-![Spotify](https://github.com/PabloRuanP/calculator-js/blob/main/public/home.PNG)<br>
+![Calculator-JS](https://github.com/PabloRuanP/calculator-js/blob/main/public/home.PNG)<br>
 
 
 ## Authors
